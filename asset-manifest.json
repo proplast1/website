@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.be2c3479.css",
-    "main.js": "/website/static/js/main.17a7c183.js",
-    "static/media/straws.jpg": "/website/static/media/straws.9f53ba446b130d136841.jpg",
-    "static/media/straws1.jpg": "/website/static/media/straws1.769e762fe6949c2f587b.jpg",
-    "static/media/straws5.jpg": "/website/static/media/straws5.121d4820973ab5473dba.jpg",
-    "static/media/straws3.jpg": "/website/static/media/straws3.128177d55e0cd8ba4a86.jpg",
-    "static/media/straws8.jpg": "/website/static/media/straws8.08f120808eece435da34.jpg",
-    "static/media/straws7.jpg": "/website/static/media/straws7.99ec51e013c384972c93.jpg",
-    "static/media/straws6.jpg": "/website/static/media/straws6.ed4125fcc88e77c0d0de.jpg",
-    "static/media/logo.png": "/website/static/media/logo.bb0bb29d3132e597c491.png",
-    "static/media/ind4.jpg": "/website/static/media/ind4.773a4a9e6713d07431f0.jpg",
-    "static/media/straws9.jpg": "/website/static/media/straws9.e2ff48f205cc967a6d15.jpg",
-    "static/media/ind3.jpg": "/website/static/media/ind3.a85ae83d4d1642ad7fcb.jpg",
-    "static/media/ind6.jpg": "/website/static/media/ind6.fbcc0f299beebae06fe4.jpg",
-    "static/media/ind7.jpg": "/website/static/media/ind7.2b0a6181d024e4767725.jpg",
-    "index.html": "/website/index.html",
-    "main.be2c3479.css.map": "/website/static/css/main.be2c3479.css.map",
-    "main.17a7c183.js.map": "/website/static/js/main.17a7c183.js.map"
+    "main.css": "/static/css/main.be2c3479.css",
+    "main.js": "/static/js/main.1b1f2dbe.js",
+    "static/media/straws.jpg": "/static/media/straws.9f53ba446b130d136841.jpg",
+    "static/media/straws1.jpg": "/static/media/straws1.769e762fe6949c2f587b.jpg",
+    "static/media/straws5.jpg": "/static/media/straws5.121d4820973ab5473dba.jpg",
+    "static/media/straws3.jpg": "/static/media/straws3.128177d55e0cd8ba4a86.jpg",
+    "static/media/straws8.jpg": "/static/media/straws8.08f120808eece435da34.jpg",
+    "static/media/straws7.jpg": "/static/media/straws7.99ec51e013c384972c93.jpg",
+    "static/media/straws6.jpg": "/static/media/straws6.ed4125fcc88e77c0d0de.jpg",
+    "static/media/logo.png": "/static/media/logo.bb0bb29d3132e597c491.png",
+    "static/media/ind4.jpg": "/static/media/ind4.773a4a9e6713d07431f0.jpg",
+    "static/media/straws9.jpg": "/static/media/straws9.e2ff48f205cc967a6d15.jpg",
+    "static/media/ind3.jpg": "/static/media/ind3.a85ae83d4d1642ad7fcb.jpg",
+    "static/media/ind6.jpg": "/static/media/ind6.fbcc0f299beebae06fe4.jpg",
+    "static/media/ind7.jpg": "/static/media/ind7.2b0a6181d024e4767725.jpg",
+    "index.html": "/index.html",
+    "main.be2c3479.css.map": "/static/css/main.be2c3479.css.map",
+    "main.1b1f2dbe.js.map": "/static/js/main.1b1f2dbe.js.map"
   },
   "entrypoints": [
     "static/css/main.be2c3479.css",
-    "static/js/main.17a7c183.js"
+    "static/js/main.1b1f2dbe.js"
   ]
 }
